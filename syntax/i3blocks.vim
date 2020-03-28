@@ -30,4 +30,4 @@ highlight link signal                 ModeMsg
 highlight link markup                 ModeMsg
 
 
-let b:current_syntax = "i3blocks"
+let b:current_syntax = "i3blocksconfig"
