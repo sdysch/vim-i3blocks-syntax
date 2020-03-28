@@ -1,3 +1,5 @@
+" Vim syntax file for i3blocks
+" See http://vim.wikia.com/wiki/Creating_your_own_syntax_files#Install_the_syntax_file
 if exists("b:current_syntax")
   finish
 endif
@@ -30,4 +32,4 @@ highlight link signal                 ModeMsg
 highlight link markup                 ModeMsg
 
 
-let b:current_syntax = "i3blocksconfig"
+let b:current_syntax = "i3blocks"
